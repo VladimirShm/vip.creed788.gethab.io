@@ -1,0 +1,65 @@
+<manifest alg="2" build="5" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3983832653"/>
+    <file name="_______-__-___________.css" crc="404449210" ref="спосибо-за-регистрацию"/>
+    <file name="_____-__________.css" crc="370201172" ref="общяя-информация"/>
+    <file name="_____-___-__________.css" crc="83877170" ref="фаилы-для-скачивания"/>
+    <file name="index.css" crc="530318239" ref="index"/>
+    <file name="_________-__-______.css" crc="317732244" ref="сообщение-об-ошыбки"/>
+  </folder>
+  <folder name="assets">
+    <file name="технические-средства-информатизации.doc" crc="164547649" mt="1479905294000"/>
+    <file name="--001.mp3" crc="3849581342" mt="1480103513000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:фаилы-для-скачивания:общяя-информация:сообщение-об-ошыбки:спосибо-за-регистрацию"/>
+    <file name="museutils.js" crc="3880880085" ref="index:фаилы-для-скачивания:общяя-информация:сообщение-об-ошыбки:спосибо-за-регистрацию"/>
+    <file name="pie.js" crc="4147615982" ref="index:сообщение-об-ошыбки"/>
+    <file name="webpro.js" crc="33264525" ref="index:сообщение-об-ошыбки"/>
+    <file name="musewpslideshow.js" crc="272207905" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="466079611" ref="index"/>
+    <file name="touchswipe.js" crc="261777990" ref="index"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="index:фаилы-для-скачивания:общяя-информация:сообщение-об-ошыбки:спосибо-за-регистрацию"/>
+    <file name="form_check.php" crc="39676790" ref="сообщение-об-ошыбки"/>
+    <file name="form_throttle.php" crc="4202036461" ref="сообщение-об-ошыбки"/>
+    <file name="form-u629.php" crc="271382544" ref="сообщение-об-ошыбки"/>
+  </folder>
+  <folder name="images">
+    <file name="2fons.ru-36800.jpg" crc="3810095506" ref="index:фаилы-для-скачивания:общяя-информация:сообщение-об-ошыбки:спосибо-за-регистрацию"/>
+    <file name="technology_circuits_circuit_board_1024x768_wallpaper_wallpaper hd_1920x1440_www.paperhi.com.jpg" crc="172165907" ref="index:общяя-информация:сообщение-об-ошыбки"/>
+    <file name="833598648.jpg" crc="3816527175" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="1457371031146944185.jpg" crc="2491502" ref="index"/>
+    <file name="albedo-overlord-(anime)-anime-demon-2537333.jpg" crc="87233673" ref="index"/>
+    <file name="anime-girl-with-silver-hair-and-purple-eyes-hd-wallpaper.jpg" crc="505437061" ref="index"/>
+    <file name="ghostshell_hackteam.jpg" crc="465224738" ref="index"/>
+    <file name="madobe-touko-8-3-2015-1.jpg" crc="4229512730" ref="index"/>
+    <file name="reiuji-utsuho.jpg" crc="19123652" ref="index"/>
+    <file name="tumblr_oezzubmh1t1uu8j17o1_1280.jpg" crc="210427498" ref="index"/>
+    <file name="wallpaper-758235.jpg" crc="4228407189" ref="index"/>
+    <file name="windows-8-anime-background5.jpg" crc="55878580" ref="index"/>
+    <file name="yyu7cm.jpg" crc="4078147776" ref="index"/>
+    <file name="83359864860x47.jpg" crc="4067589750" ref="index"/>
+    <file name="145737103114694418580x45.jpg" crc="723741" ref="index"/>
+    <file name="albedo-overlord-(anime)-anime-demon-253733360x90.jpg" crc="4247367342" ref="index"/>
+    <file name="anime-girl-with-silver-hair-and-purple-eyes-hd-wallpaper80x45.jpg" crc="73782545" ref="index"/>
+    <file name="ghostshell_hackteam60x57.jpg" crc="4236650436" ref="index"/>
+    <file name="madobe-touko-8-3-2015-180x45.jpg" crc="4259238105" ref="index"/>
+    <file name="reiuji-utsuho65x45.jpg" crc="4027053155" ref="index"/>
+    <file name="tumblr_oezzubmh1t1uu8j17o1_128072x45.jpg" crc="95675148" ref="index"/>
+    <file name="wallpaper-75823580x45.jpg" crc="470528266" ref="index"/>
+    <file name="windows-8-anime-background572x45.jpg" crc="418364461" ref="index"/>
+    <file name="yyu7cm80x45.jpg" crc="4147127737" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u635-17.png" crc="200669387" ref="сообщение-об-ошыбки"/>
+    <file name="u635-17-r.png" crc="3781505367" ref="сообщение-об-ошыбки"/>
+    <file name="u635-17-m.png" crc="4000802149" ref="сообщение-об-ошыбки"/>
+    <file name="u635-17-fs.png" crc="3996209960" ref="сообщение-об-ошыбки"/>
+    <file name="1344418.jpg" crc="3859752333" ref="сообщение-об-ошыбки"/>
+  </folder>
+  <file name="index.html" crc="3922098813" mt="1494214201575" redirect="true"/>
+  <file name="фаилы-для-скачивания.html" crc="4270911415" mt="1494214351718" redirect="true"/>
+  <file name="общяя-информация.html" crc="3801325016" mt="1494214201585" redirect="true"/>
+  <file name="сообщение-об-ошыбки.html" crc="4173870706" mt="1494214201595" redirect="true"/>
+  <file name="спосибо-за-регистрацию.html" crc="4064867271" mt="1494213142952" redirect="true"/>
+</manifest>

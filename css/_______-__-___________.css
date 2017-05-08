@@ -1,0 +1,93 @@
+.html
+{
+	background: #7F7F7F url("../images/2fons.ru-36800.jpg") repeat left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 598px;
+	min-height: 196px;
+	background: -webkit-gradient(linear, left center, right center, from(#FFFFFF),color-stop(100%, #000000));
+	background: -webkit-linear-gradient(left,#FFFFFF ,#000000 100%);
+	background: -moz-linear-gradient(left,#FFFFFF ,#000000 100%);
+	background: -ms-linear-gradient(left,#FFFFFF ,#000000 100%);
+	background: -o-linear-gradient(left,#FFFFFF ,#000000 100%);
+	background: linear-gradient(to right,#FFFFFF ,#000000 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFFFFFFF, endColorstr=#FF000000, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFFFF', endColorstr='#FF000000', GradientType=1)";
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 171px 190px 165px 236px;
+}
+
+#u713-4
+{
+	z-index: 2;
+	width: 598px;
+	min-height: 53px;
+	line-height: 72px;
+	font-size: 60px;
+	position: relative;
+}
+
+#u715-4
+{
+	z-index: 6;
+	width: 153px;
+	min-height: 42px;
+	border-width: 3px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #0000FF;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	color: #FFFFFF;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	margin-left: 220px;
+	margin-top: 74px;
+	position: relative;
+}
+
+#u715-4:hover
+{
+	opacity: 0.9;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+	filter: alpha(opacity=90);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 42px;
+	width: 153px;
+	margin: 74px 0px 0px 220px;
+}
+
+#u715-4:active
+{
+	opacity: 0.4;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
+	filter: alpha(opacity=40);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 42px;
+	width: 153px;
+	margin: 74px 0px 0px 220px;
+}
+
+body
+{
+	padding-top: 35px;
+	padding-bottom: 348px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
